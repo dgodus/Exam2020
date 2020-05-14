@@ -1,7 +1,7 @@
 /*
- * Ejemplo desarrollado por Erick Navarro
- * Blog: e-navarro.blogspot.com
- * Noviembre - 2015
+ * Ejemplo desarrollado por godofredo Quea
+
+ * mayo - 2020
  */
 
 package chatcliente;
@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Clase en la que se maneja la comunicación del lado del cliente.
- * @author Erick Navarro
+ 
  */
 public class Cliente extends Thread {
     /**
